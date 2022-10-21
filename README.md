@@ -17,7 +17,4 @@ Here is n = 15 and difficulty = 100
 
 Here is n = 12 and difficulty = 75
 
-
-<img width="714" alt="Screen Shot 2022-10-21 at 2 29 33 PM" src="https://user-images.githubusercontent.com/55841301/197265096-82208f56-30af-4d5b-82d4-aa3648ea4265.png">
-
-
+<img width="604" alt="Screen Shot 2022-10-21 at 3 32 42 PM" src="https://user-images.githubusercontent.com/55841301/197275374-5ca08291-c39d-4510-9039-f6d9f266b317.png">
