@@ -12,6 +12,12 @@ Download as a zip, open in your IDE of choice, and compile. Takes two command li
 Here is n = 15 and difficulty = 100
 
 
+<img width="631" alt="Screen Shot 2022-10-21 at 3 30 35 PM" src="https://user-images.githubusercontent.com/55841301/197275066-6277711f-80b0-4d38-a5d4-d22b0d6cda85.png">
+
+
+Here is n = 12 and difficulty = 75
+
+
 <img width="714" alt="Screen Shot 2022-10-21 at 2 29 33 PM" src="https://user-images.githubusercontent.com/55841301/197265096-82208f56-30af-4d5b-82d4-aa3648ea4265.png">
 
 
